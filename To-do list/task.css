@@ -1,0 +1,68 @@
+body{
+    background-color: aliceblue;
+}
+#add_task{
+    margin:auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: beige;
+}
+h1{
+    margin-left: 37%;
+}
+#Task{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px;
+    margin-left: 27%;
+}
+#btn_task{
+    width: 100px;
+    height: 30px;
+    margin-left: 44%;
+    margin-bottom: 10px;
+    background-color: chartreuse;
+    border-radius: 5px;
+
+}
+#btn_task:hover{
+    background-color: darkgrey;
+}
+#added_tasks{
+    background-color: azure;
+    margin: auto;
+    width: 50%;
+}
+#task-item{
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#btnEdit{
+    background-color: blue;
+    font-weight: bold;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    float: right;
+    margin-right: 10px;
+    
+}
+#btnDelete{
+    background-color: red;
+    font-weight: bold;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 8px;
+    float: right;
+}
+#btnEdit:hover, #btnDelete:hover{
+    background-color:azure
+}
+span{
+    padding-right: 35px;
+}
