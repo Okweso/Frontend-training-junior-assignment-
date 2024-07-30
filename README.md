@@ -5,7 +5,9 @@ This was a to-do list app that I did to practice my CSS and JavaScript skills. T
 **Tech Stack**
 
 HTML
+
 CSS
+
 JAVASCRIPT
 
 **Installation**
